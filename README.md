@@ -4,7 +4,7 @@
 
 A two-stage machine learning and remote-sensing workflow for predicting wheat yield at the district level and spatially allocating those predictions to approximately 1.6 million 500 × 500 m grid cells across Madhya Pradesh.
 
-#Note: All files were unable to be uploaded as the project is over 2 GB. Pl refer to final output and Portfolio to understand working. All code files uploaded.
+#Note: GRID dataset containing the 1.6 million latitude and longitude points used for RPI cannot be uploaded as the files are over 500 MB. Pl refer to final output and Portfolio to understand working. All code files uploaded.
 
 ## 1. Project Overview
 
